@@ -1,7 +1,7 @@
 ### Impact of Image Layers on Docker Containers & Storage Drivers
 
 #### Docker Image Layers and containers
-* Please [Refer Here](https://github.com/codesquareZone/Docker-Image-Layers-and-containers-Part-2/blob/master/dc.md). As the earlier post is prerequisite for understanding this series
+* Please [Refer Here](https://github.com/DockerNotes/Docker-Image-Layers-and-containers-Part-2/blob/main/dc.md). As the earlier post is prerequisite for understanding this series
 * We have understood, Docker images are collection of Layers.
 * Now Let us try to understand how the docker image layers will work in the case of container
 ![Preview](./Images/d.png)
